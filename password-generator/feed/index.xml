@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Password Generator	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/password-generator/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 31 May 2023 10:34:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jun 2023 07:39:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
